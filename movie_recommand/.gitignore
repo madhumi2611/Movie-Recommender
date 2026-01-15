@@ -1,0 +1,48 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# ---- Virtual environments ----
+venv/
+env/
+.venv/
+
+# ---- Environment files ----
+.env
+.env.local
+.env.*
+
+# ---- Jupyter Notebook checkpoints ----
+.ipynb_checkpoints/
+
+# ---- Data files ----
+*.csv
+*.tsv
+*.json
+*.xlsx
+*.xls
+
+# ---- Model files ----
+*.pkl
+*.h5
+*.joblib
+*.pt
+*.pth
+
+# ---- IDE / OS files ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ---- Logs ----
+*.log
+
+# ---- Temporary or cache files ----
+*.tmp
+*.bak
+*.swp
+*.swo
